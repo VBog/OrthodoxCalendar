@@ -1,0 +1,61 @@
+﻿#snames {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	background-color: #9D7819;
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+	width: 690px;
+	z-index: 200;
+	left: 250px;
+	top: 50px;
+	position: absolute;
+}
+#snames table {
+		border: 0px;
+		margin: 0px;
+		padding: 0px;
+}
+#snames img {
+		border: 0px;
+		margin: 0px;
+		padding: 0px;
+		vertical-align:middle;
+}
+#snames .header {
+	height: 70px; 
+	text-align: center;
+	color: white;
+	font-weight: bold; 
+}
+#snames .footer {
+	height: 25px; 
+	font-size: 16px;
+	text-align: center;
+	color: white;
+	background-color: #9D7819;
+}
+
+#snames .separator {
+	background-image: url('separator1.jpg');
+	height: 50px;
+}
+#snames .day {
+	background-color: #F0EBE6;
+	min-height: 200px;
+	padding: 6px;
+}
+.curDate {
+	font-size: 16px;
+	font-weight: bold;
+}
+.holDate {
+	font-size: 16px;
+	font-weight: bold;
+	color:red;
+}
+.holiday {
+	font-weight: bold;
+	color: red;
+}
